@@ -4,10 +4,9 @@
 
 - 💻 I am currently working on the development of a website in HTML, CSS and Javascript.
 
-| :bowtie: `:bowtie:` | 
+- :bowtie: 
 
-
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+- :smile: 
 
 
 
